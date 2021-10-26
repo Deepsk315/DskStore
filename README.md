@@ -1,4 +1,4 @@
-# DskStore
+# DskStore ( MERN Project )
 Mini E-Comm Store
 
 Mini Online store created using MERN Stack 
